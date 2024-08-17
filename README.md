@@ -1,19 +1,5 @@
 # WeConnect
 
-Developed by Group 4
-
-| Name                    | Email                | Banner ID |
-|-------------------------|----------------------|-----------|
-| Haoyu Wang              | hy873711@dal.ca   | B00976563 |
-| Jeet Jani               | jeetjani@dal.ca    | B00972192 |
-| Jeffry Paul Suresh Durai| jeffrypaul.sureshdurai@dal.ca  | B00952114 |
-| Kushal Jankinkumar Panchal                  | ks735728@dal.ca   | B00985061 |
-| Luv Prakashkumar Patel               | lv455130@dal.ca   | B00950942 |
-
-Mentor: Tushar Sharma (tushar@dal.ca)
-
-TA: Saurabh Rajput (saurabh@dal.ca)
-
 ## Table of Contents
 1. [Overview](#overview)
 1. [Dependencies](#dependencies)
